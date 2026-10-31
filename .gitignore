@@ -1,0 +1,5 @@
+.venv
+miot_cnc_backups
+trial
+/.env
+miot_cnc_uat_backup.sh
